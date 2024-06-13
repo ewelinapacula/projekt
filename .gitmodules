@@ -1,6 +1,3 @@
 [submodule "MVC_backend"]
 	path = MVC_backend
 	url = https://github.com/ewelinapacula/projekt.git
-[submodule "MVC_frontend"]
-	path = MVC_frontend
-	url = https://github.com/ewelinapacula/projekt.git
